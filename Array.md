@@ -49,3 +49,5 @@ public class Array {
         }
     }
 
+//memory allocation in java array
+<img width="746" height="420" alt="image" src="https://github.com/user-attachments/assets/bf75e51b-70c7-428f-acd3-858518745609" />
