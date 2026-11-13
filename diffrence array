@@ -1,5 +1,3 @@
-
-
 ## 1. Introduction
 
 Difference Array is an optimization technique used to perform multiple range updates efficiently.
@@ -322,4 +320,3 @@ ans[i] = ans[i - 1] + diff[i];
 Jab bhi question mein multiple range updates diye hon aur final array nikalna ho, Difference Array technique zaroor consider karna.
 
 Happy Coding! 🚀
-
